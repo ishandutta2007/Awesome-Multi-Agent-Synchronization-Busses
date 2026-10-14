@@ -68,7 +68,7 @@ The table below lists top managed multi-agent platforms and synchronization laye
 
 The following table showcases top open-source multi-agent synchronization busses, coordination protocols, and distributed state management frameworks. Projects are **sorted strictly in descending order by GitHub stargazers count**:
 
-| 🏷️ Repository | 🌟 Stars Badge | 🛠️ Primary Tech | 📖 Description & Architectural Focus |
+| 🏷️ Repository | 🌟 Stars_Badge | 🛠️ Primary Tech | 📖 Description & Architectural Focus |
 | :--- | :--- | :--- | :--- |
 | **[MetaGPT](https://github.com/geekan/MetaGPT)** | [![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers) | Python | Multi-agent framework assigning diverse roles (Product Manager, Architect, Engineer, QA) with standardized operating procedures (SOPs) to form collaborative software teams. |
 | **[AutoGen](https://github.com/microsoft/autogen)** | [![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers) | Python, C# | Next-gen multi-agent conversation framework enabling multi-agent chat loops, event-driven agent messaging, asynchronous orchestration, and human-in-the-loop workflows. |
