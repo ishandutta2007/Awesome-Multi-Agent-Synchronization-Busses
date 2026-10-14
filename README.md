@@ -1,6 +1,6 @@
 # Awesome-Multi-Agent-Synchronization-Busses
 
-# Top Multi-Agent Synchronization Busses Ecosystem
+## Top Multi-Agent Synchronization Busses Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Low-Latency State Management, Agent-to-Agent Messaging & Distributed Coordination*  
